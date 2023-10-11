@@ -1,4 +1,5 @@
 Django
+django-localflavor
 django-mptt
 django-reversion
 joblib
