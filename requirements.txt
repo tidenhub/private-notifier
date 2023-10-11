@@ -1,2 +1,5 @@
 Django
 django-reversion
+joblib
+scikit-learn
+scipy
