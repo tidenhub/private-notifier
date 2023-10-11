@@ -1,4 +1,5 @@
 Django
+django-mptt
 django-reversion
 joblib
 scikit-learn
