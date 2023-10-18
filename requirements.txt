@@ -1,3 +1,4 @@
+click
 Django
 django-guardian
 django-localflavor
