@@ -5,5 +5,6 @@ django-mptt
 django-reversion
 joblib
 pysmbc
+pysocks
 scikit-learn
 scipy
