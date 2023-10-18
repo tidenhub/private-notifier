@@ -4,5 +4,6 @@ django-localflavor
 django-mptt
 django-reversion
 joblib
+pysmbc
 scikit-learn
 scipy
